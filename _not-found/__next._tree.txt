@@ -1,2 +1,2 @@
-:HL["https://darderion.github.io/potential-app/_next/static/chunks/23_xt6dy8arl_.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"V3ZdnZQL2uVK5m3Xb-PPA"}
+:HL["/potential-app/_next/static/chunks/23_xt6dy8arl_.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"boEVfXlS_V7fealqNIN3S"}
